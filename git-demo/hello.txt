@@ -14,8 +14,6 @@ hello xck! hello git!
 hello xck! hello git!
 hello xck! hello git!
 hello xck! hello git!
-<<<<<<< HEAD
 hello xck! hello git!master
-=======
 hello xck! hello git!hot-fix
->>>>>>> hot-fix
+123123123
