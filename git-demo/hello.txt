@@ -15,4 +15,4 @@ hello xck! hello git!
 hello xck! hello git!
 hello xck! hello git!
 hello xck! hello git!
-hello xck! hello git!
+hello xck! hello git!hot-fix
